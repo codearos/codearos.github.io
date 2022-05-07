@@ -1,2 +1,2 @@
 # codearos.github.io
-My protfolio
+My portfolio
