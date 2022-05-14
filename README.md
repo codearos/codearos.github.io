@@ -1,2 +1,2 @@
 # codearos.github.io
-My portfolio
+My portfolio. Learning basics. 
